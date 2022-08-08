@@ -1,4 +1,0 @@
-{
-    "connection_string": "user:1234@tcp(127.0.0.1:3306)/test_db",
-    "port": 3306
-}
